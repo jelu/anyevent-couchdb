@@ -1,0 +1,17 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: AnyEvent-CouchDB
+Upstream-Contact: FIX
+Source: FIX
+
+Files: *
+Copyright:
+ FIX
+License: FIX
+
+Files: debian/*
+Copyright:
+ FIX
+License: FIX
+
+License: FIX
+ FIX
