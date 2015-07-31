@@ -8,10 +8,11 @@ Build-Depends-Indep:
  perl,
  libanyevent-http-perl (>= 1.11),
  libcouchdb-view-perl,
- libjson-xs-perl,
+ libjson-perl,
  libdata-dump-streamer-perl,
  libio-all-perl,
- libscope-guard-perl
+ libscope-guard-perl,
+ libexception-class-perl
 Standards-Version: 3.9.4
 
 Package: libanyevent-couchdb-perl
@@ -21,10 +22,11 @@ Depends:
  ${perl:Depends},
  libanyevent-http-perl (>= 1.11),
  libcouchdb-view-perl,
- libjson-xs-perl,
+ libjson-perl,
  libdata-dump-streamer-perl,
  libio-all-perl,
- libscope-guard-perl
+ libscope-guard-perl,
+ libexception-class-perl
 Description: a non-blocking CouchDB client based on jquery.couch.js
  AnyEvent::CouchDB is a non-blocking CouchDB client implemented on top of the
  AnyEvent framework.  Using this library will give you the ability to run
