@@ -1,3 +1,9 @@
+libanyevent-couchdb-perl (1.31-2~unstable+1) unstable; urgency=low
+
+  * Corrected package version format.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Tue, 28 Jun 2016 16:59:14 +0200
+
 libanyevent-couchdb-perl (1.31-1~unstable-1) unstable; urgency=low
 
   * Bump to version 1.31, upstream repository had no tags since 1.21.
