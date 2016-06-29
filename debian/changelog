@@ -1,3 +1,9 @@
+libanyevent-couchdb-perl (1.31-3~unstable+1) unstable; urgency=low
+
+  * Remove source/format.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Wed, 29 Jun 2016 08:16:10 +0200
+
 libanyevent-couchdb-perl (1.31-2~unstable+1) unstable; urgency=low
 
   * Corrected package version format.
